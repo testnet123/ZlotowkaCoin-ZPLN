@@ -7,7 +7,7 @@ pragma solidity ^0.5.0;
 // Name        : ZlotowkaCoin
 // Total supply: 38,350,000 
 
-// Decimals    : 18
+// Decimals    : 18d
 //
 // Enjoy.
 //
